@@ -4,7 +4,8 @@
 🌱 I’m currently learning cloud and DevOps fundamentals<br />
 [My LinkedIn](/https://www.linkedin.com/in/ashleyrdrane)
 
-![BWIT](images/medium-shot-female-astronauts-wearing-spacesuit.png)
+<img width="1024" height="1536" alt="ChatGPT Image Feb 23, 2026, 09_32_22 PM" src="https://github.com/user-attachments/assets/322ae2ed-6d6c-402f-9508-6b2fefd2de53" />
+
 
 
 
